@@ -1,3 +1,7 @@
+> **Archived (September 2026).** This repository is a sanitized copy of the 2024 Python-era DōmAI prototype (`domai-app`), kept read-only as design history. It is not runnable as-is and is not developed further.
+>
+> **Active development is in [joshzdev/domai](https://github.com/joshzdev/domai)**, the native Swift/SwiftUI macOS app. Start with its [Product Specification](https://github.com/joshzdev/domai/blob/main/Documentation/PRODUCT_SPEC.md).
+
 # DōmAI - MacOS Security Assistant
 
 DōmAI is an AI-powered security assistant for MacOS that provides interactive guidance and education about system security. It helps users understand and manage their MacOS security settings through natural language interaction.
